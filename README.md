@@ -14,7 +14,7 @@ Docker Image
 I have used Postgresql to create my apps database.
 
 DB Schema:
-![image](https://user-images.githubusercontent.com/68077710/159915280-91a22182-78c4-48f1-8c2a-1eccf9345757.png)
+![122](https://user-images.githubusercontent.com/68077710/159915675-f5f731d0-ed54-4c48-906e-a9ae59920844.png)
 
 # Future Roadmap
 	roadmap: media queries, page titles, favicon,  register captcha, authentication
