@@ -23,7 +23,8 @@ Instructions:
 sudo docker pull koenry/noteappdatabase:2 \
 sudo docker run -dt -p 5432:5432 --name dbdb  koenry/noteappdatabase:2 \
 sudo docker exec -it dbdb bash \
-su - postgres psql \
+su - postgres \
+psql \
 run commands from db folder \
 CREATE EXTENSION IF NOT EXISTS pgcrypto; \
 exit 3 times \
